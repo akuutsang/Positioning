@@ -1,0 +1,24 @@
+.parent{
+    background-color: aqua;
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+    padding: 50px;
+    border: 10px;
+    text-align: center;
+    position: static;
+
+}
+.child{
+    background-color: brown;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    padding: 50px;
+    border: 10px;
+    text-align: center;
+    position: static;
+}
+/* by default css styling is static, so really this css positioning will appear normal */
+    
+}
